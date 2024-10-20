@@ -1,4 +1,5 @@
 Rainfall Prediction using Machine Learning
+
 Rainfall Prediction using Machine Learning is a data-driven approach aimed at accurately forecasting rainfall patterns based on historical weather data, atmospheric conditions, and geographical factors. By employing machine learning algorithms, this project seeks to provide valuable insights and predictions for meteorological departments, agricultural sectors, and disaster management agencies.
 
 Scenario 1: Agricultural Planning
