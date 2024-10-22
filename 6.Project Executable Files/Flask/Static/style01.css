@@ -1,0 +1,9 @@
+body {
+    background-image: url('https://cdn.tourradar.com/s3/tour/1500x800/136950_64ad2b68cf6a0.jpg');
+    font-family: 'Poppins', sans-serif;
+}
+
+h2{
+    font-size: 2 rem;
+    font-weight: bold;
+}

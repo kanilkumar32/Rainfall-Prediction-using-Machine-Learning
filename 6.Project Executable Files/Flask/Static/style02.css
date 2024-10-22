@@ -1,0 +1,9 @@
+body {
+    background-image: url('https://media.istockphoto.com/id/1321878632/photo/cloudy-sky-over-beautiful-flood-plain-landscape.jpg?s=2048x2048&w=is&k=20&c=ayW8lRlZMaeQloY80kSiRvCwsEjv0cyELwzDW5hqfaY=');
+    font-family: 'Poppins', sans-serif;
+}
+
+h2{
+    font-size: 2 rem;
+    font-weight: bold;
+}
